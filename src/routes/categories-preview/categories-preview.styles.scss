@@ -1,0 +1,11 @@
+.categories-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 10px;
+    row-gap: 50px;
+  }
+  .categories-title{
+    font-size: 18px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
